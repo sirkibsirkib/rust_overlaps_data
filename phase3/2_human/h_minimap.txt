@@ -1,0 +1,30 @@
+[M::mm_idx_gen::0.725*0.98] collected minimizers
+[M::mm_idx_gen::0.812*1.47] sorted minimizers
+[M::main::0.812*1.47] loaded/built the index for 83753 target sequence(s)
+[M::main] max occurrences of a minimizer to consider: 130
+[M::main] Version: 0.2-r123
+[M::main] CMD: /export/scratch1/home/baaijens/Software/minimap-0.2/minimap -L 80 -S -t 10 ../blast/chr6_32400-32800kb.FR.trimmed.fasta ../blast/chr6_32400-32800kb.FR.trimmed.fasta
+[M::main] Real time: 3.683 sec; CPU: 11.021 sec
+        Command being timed: "/export/scratch1/home/baaijens/Software/minimap-0.2/minimap -L 80 -S -t 10 ../blast/chr6_32400-32800kb.FR.trimmed.fasta ../blast/chr6_32400-32800kb.FR.trimmed.fasta"
+        User time (seconds): 10.65
+        System time (seconds): 0.37
+        Percent of CPU this job got: 298%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.69
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 130656
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 0
+        Minor (reclaiming a frame) page faults: 59159
+        Voluntary context switches: 11278
+        Involuntary context switches: 476
+        Swaps: 0
+        File system inputs: 0
+        File system outputs: 94744
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0

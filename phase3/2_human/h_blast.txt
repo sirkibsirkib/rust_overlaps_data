@@ -1,0 +1,6 @@
+
+HUMAN:
+Wall: 5min 10sec
+UserTime :499sec
+SysTime: :26sec 
+Space : 9832948kb

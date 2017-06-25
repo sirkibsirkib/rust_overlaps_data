@@ -1,0 +1,24 @@
+Human solution overlaps
+
+ASPOP | BLAST | Minimap
+
+eg ##- is count of solutions in ASPOP and BLAST but not Minimap
+
+###	630026
+##-	236646
+#-#	8452
+-##	3218
+#--	2569
+-#-	32975
+--#	19441
+
+aspop total
+877693
+
+blast total
+902865
+
+minimap total
+661137
+
+

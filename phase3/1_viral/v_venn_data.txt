@@ -1,0 +1,47 @@
+Human solution overlaps
+
+ASPOP | BLAST | Minimap | Ground Truth
+
+eg ###- is count of solutions in ASPOP and BLAST and Minimap, but not in the Ground Truth set
+
+####	3332486
+###-	297560
+##-#	3846072
+#-##	7114165
+-###	20772
+##--	536805
+#-#-	1355426
+#--#	10277359
+-##-	6260
+-#-#	71633
+--##	1130330
+#---	5456015
+-#--	1176859
+--#-	1413253
+---#	9108889
+
+Aspop total
+32215888
+
+Blast total
+9288447
+
+Minimap total
+14670252
+
+Ground set total
+34901706
+
+
+===============
+ASPOP	BLAST	Minimap
+
+tp	24570082	7270963	11597753
+fp	7645806	2017484	3072499
+fn	10331624	27630743	23303953
+			
+			
+prec	0.7626697113	0.7827964137	0.7905626297
+rec	0.7039793986	0.2083268652	0.332297596
+fmeas	0.7321502615	0.3290761632	0.4679158729
+
